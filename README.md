@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/midnightshady/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/midnightshady/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/midnightshady/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/midnightshady/leetcode/tree/master/0076-minimum-window-substring) |
+| [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/midnightshady/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/midnightshady/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/midnightshady/leetcode/tree/master/0567-permutation-in-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/midnightshady/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/midnightshady/leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/midnightshady/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/midnightshady/leetcode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/midnightshady/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
