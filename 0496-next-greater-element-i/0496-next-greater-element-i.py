@@ -5,19 +5,21 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+        stack = []
+        dic = {}
         ans = []
-        for i in range(len(nums1)):
-            char1 = nums1[i]
-            found = False
-            for j in range(len(nums2)):
-                if char1 == nums2[j]:
-                    j += 1
-                    while j < len(nums2):
-                        if char1 < nums2[j]:
-                            ans.append(nums2[j])
-                            found = True
-                            break
-                        j += 1
-                    if not found :
-                        ans.append(-1)
+        for i in range(len(nums2) -1, -1, -1):
+            if not stack :
+                dic[nums2[i]] = -1
+            if stack and nums2[i] < stack[-1]:
+                dic[nums2[i]] = stack[-1]
+            while (stack and nums2[i] > stack[-1]):
+                stack.pop()
+                if not stack:
+                    dic[nums2[i]] = -1
+                else:
+                    dic[nums2[i]] = stack[-1]
+            stack.append(nums2[i])
+        for i in nums1:
+            ans.append(dic[i])
         return ans
