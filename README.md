@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0457-circular-array-loop](https://github.com/midnightshady/leetcode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/midnightshady/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/midnightshady/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/midnightshady/leetcode/tree/master/0735-asteroid-collision) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/midnightshady/leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/midnightshady/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/midnightshady/leetcode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/midnightshady/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/midnightshady/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
