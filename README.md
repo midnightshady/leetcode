@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/midnightshady/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/midnightshady/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/midnightshady/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/midnightshady/leetcode/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/midnightshady/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
