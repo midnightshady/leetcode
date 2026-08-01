@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/midnightshady/leetcode/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/midnightshady/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/midnightshady/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/midnightshady/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/midnightshady/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/midnightshady/leetcode/tree/master/0567-permutation-in-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/midnightshady/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/midnightshady/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/midnightshady/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/midnightshady/leetcode/tree/master/0682-baseball-game) |
@@ -168,11 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/midnightshady/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/midnightshady/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/midnightshady/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/midnightshady/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/midnightshady/leetcode/tree/master/0739-daily-temperatures) |
