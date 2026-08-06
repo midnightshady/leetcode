@@ -5,8 +5,7 @@ class Solution:
             product = 1
             temp = n
             while temp:
-                digit = temp % 10
-                product *= digit
+                product *= temp % 10
                 temp //= 10
             if product % t == 0:
                 return n
