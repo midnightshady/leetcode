@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/midnightshady/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/midnightshady/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/midnightshady/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/midnightshady/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/midnightshady/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/midnightshady/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1927-sum-game](https://github.com/midnightshady/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/midnightshady/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/midnightshady/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/midnightshady/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/midnightshady/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/midnightshady/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
