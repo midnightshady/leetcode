@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/midnightshady/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/midnightshady/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/midnightshady/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/midnightshady/leetcode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/midnightshady/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/midnightshady/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/midnightshady/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/midnightshady/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/midnightshady/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/midnightshady/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
