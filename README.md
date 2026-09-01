@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/midnightshady/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0457-circular-array-loop](https://github.com/midnightshady/leetcode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/midnightshady/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/midnightshady/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/midnightshady/leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/midnightshady/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/midnightshady/leetcode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/midnightshady/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/midnightshady/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/midnightshady/leetcode/tree/master/0457-circular-array-loop) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/midnightshady/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/midnightshady/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/midnightshady/leetcode/tree/master/0224-basic-calculator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/midnightshady/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/midnightshady/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/midnightshady/leetcode/tree/master/1510-stone-game-iv) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/midnightshady/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/midnightshady/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -369,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
