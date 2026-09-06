@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/midnightshady/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/midnightshady/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/midnightshady/leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/midnightshady/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/midnightshady/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/midnightshady/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/midnightshady/leetcode/tree/master/0394-decode-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/midnightshady/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/midnightshady/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/midnightshady/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/midnightshady/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/midnightshady/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/midnightshady/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/midnightshady/leetcode/tree/master/0907-sum-of-subarray-minimums) |
