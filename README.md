@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/midnightshady/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/midnightshady/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/midnightshady/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/midnightshady/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/midnightshady/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/midnightshady/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/midnightshady/leetcode/tree/master/0739-daily-temperatures) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/midnightshady/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/midnightshady/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/midnightshady/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
