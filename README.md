@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/midnightshady/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/midnightshady/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/midnightshady/leetcode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/midnightshady/leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/midnightshady/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/midnightshady/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/midnightshady/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -448,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/midnightshady/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/midnightshady/leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
