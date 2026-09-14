@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/midnightshady/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/midnightshady/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/midnightshady/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/midnightshady/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/midnightshady/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/midnightshady/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/midnightshady/leetcode/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/midnightshady/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/midnightshady/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/midnightshady/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/midnightshady/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/midnightshady/leetcode/tree/master/0704-binary-search) |
