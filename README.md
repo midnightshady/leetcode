@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/midnightshady/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/midnightshady/leetcode/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/midnightshady/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0457-circular-array-loop](https://github.com/midnightshady/leetcode/tree/master/0457-circular-array-loop) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/midnightshady/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/midnightshady/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/midnightshady/leetcode/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/midnightshady/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/midnightshady/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/midnightshady/leetcode/tree/master/0875-koko-eating-bananas) |
