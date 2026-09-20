@@ -1,0 +1,21 @@
+class Solution:
+    def checkOverlap(
+        self,
+        radius: int,
+        xCenter: int,
+        yCenter: int,
+        x1: int,
+        y1: int,
+        x2: int,
+        y2: int
+    ) -> bool:
+
+        closest_x = max(x1, min(xCenter, x2))
+        closest_y = max(y1, min(yCenter, y2))
+
+        dx = closest_x - xCenter
+        dy = closest_y - yCenter
+
+        distance_squared = dx * dx + dy * dy
+
+        return distance_squared <= radius * radius
