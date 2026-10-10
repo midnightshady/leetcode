@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/midnightshady/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/midnightshady/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/midnightshady/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/midnightshady/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/midnightshady/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/midnightshady/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/midnightshady/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/midnightshady/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/midnightshady/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/midnightshady/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/midnightshady/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/midnightshady/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/midnightshady/leetcode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/midnightshady/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/midnightshady/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/midnightshady/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/midnightshady/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/midnightshady/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/midnightshady/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/midnightshady/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/midnightshady/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/midnightshady/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/midnightshady/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/midnightshady/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/midnightshady/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/midnightshady/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/midnightshady/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/midnightshady/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Memoization
 |  |
 | ------- |
