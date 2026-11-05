@@ -1,16 +1,23 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-        low = 0
-        high = x
-        
-        while low <= high:
+        sqr = x
+
+        def sqrt(low, high, ans):
+            if low > high:
+                return ans
+
             mid = (low + high) // 2
             root = mid * mid
-            if root == x:
+
+            if root == sqr:
                 return mid
-            elif root > x:
+
+            elif root > sqr:
                 high = mid - 1
             else:
                 ans = mid
                 low = mid + 1
-        return ans
+
+            return sqrt(low, high, ans)
+
+        return sqrt(0, x, 0)
