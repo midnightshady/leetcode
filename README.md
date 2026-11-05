@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/midnightshady/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/midnightshady/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/midnightshady/leetcode/tree/master/0275-h-index-ii) |
+| [0367-valid-perfect-square](https://github.com/midnightshady/leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/midnightshady/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/midnightshady/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/midnightshady/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/midnightshady/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/midnightshady/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/midnightshady/leetcode/tree/master/0224-basic-calculator) |
+| [0367-valid-perfect-square](https://github.com/midnightshady/leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/midnightshady/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/midnightshady/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/midnightshady/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
