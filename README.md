@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/midnightshady/leetcode/tree/master/0045-jump-game-ii) |
 | [0068-text-justification](https://github.com/midnightshady/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/midnightshady/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/midnightshady/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/midnightshady/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/midnightshady/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/midnightshady/leetcode/tree/master/0088-merge-sorted-array) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/midnightshady/leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/midnightshady/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/midnightshady/leetcode/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/midnightshady/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/midnightshady/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/midnightshady/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
